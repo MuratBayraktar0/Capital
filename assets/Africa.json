@@ -1,0 +1,49 @@
+[
+    {
+      "featureType": "administrative.country",
+      "stylers": [
+        {
+          "visibility": "on"
+        },
+        {
+          "weight": 2.5
+        }
+      ]
+    },
+    {
+      "featureType": "administrative.province",
+      "elementType": "geometry.fill",
+      "stylers": [
+        {
+          "color": "#000000"
+        },
+        {
+          "visibility": "on"
+        }
+      ]
+    },
+    {
+      "featureType": "water",
+      "elementType": "geometry.fill",
+      "stylers": [
+        {
+          "color": "#47a1f0"
+        },
+        {
+          "visibility": "simplified"
+        }
+      ]
+    },
+    {
+      "featureType": "water",
+      "elementType": "labels.text",
+      "stylers": [
+        {
+          "color": "#000f85"
+        },
+        {
+          "visibility": "on"
+        }
+      ]
+    }
+  ]
