@@ -1,16 +1,13 @@
-# capital
+Flutter ile yapmış olduğum Capital uygulaması.
 
-A new Flutter project.
+Uygulama hedefleri;
+-Google Maps Api'sini kullanmak.
+-Flutter da ekranlar arası geçişler.
+-Widget'ları etkin biçimde kullanabilmek.
 
-## Getting Started
+Uygulama Resimleri;
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Dünya](https://user-images.githubusercontent.com/51914434/83776300-ae6b7200-a690-11ea-9df9-6adc8f1491b3.png)
+![Afrika](https://user-images.githubusercontent.com/51914434/83776333-b9be9d80-a690-11ea-97de-535c526597ea.png)
+![Antartika](https://user-images.githubusercontent.com/51914434/83776352-be835180-a690-11ea-9c3a-5ccca1327b29.png)
+![GüneyAmerika](https://user-images.githubusercontent.com/51914434/83776386-c80cb980-a690-11ea-86e9-019dda5ae525.png)
